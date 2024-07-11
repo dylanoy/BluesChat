@@ -1,4 +1,4 @@
-const CHATGPT_NEXT_WEB_CACHE = "chatgpt-next-web-cache";
+const CHATGPT_NEXT_WEB_CACHE = "blues-chat-web-cache";
 
 self.addEventListener("activate", function (event) {
   console.log("ServiceWorker activated.");
